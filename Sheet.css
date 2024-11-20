@@ -16,12 +16,13 @@ body{
 	padding: 30px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
-	background-color: #003b5b;
+	background-color: #F8F8F8;
 }
 h4{
 	margin-bottom: 10px;
 	font-size: 24px;
-	color: white;
+	/*color: white;*/
+	text-align: center;
 }
 input{
 	width: 100%;
@@ -33,10 +34,10 @@ textarea{
 	padding: 10px;
 }
 #submit{
-	border: none;
+	border: none; 
 	background-color: orangered;
 	color: white;
-	width: 200px;
+/*width: 200px;*/
 	margin-top: 10px;
 	border-radius: 5px;
 }
